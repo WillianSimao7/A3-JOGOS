@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: PongScene
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 52248bd80447f604e9a8d0d642ef65dc, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 112000000, guid: 9dbc46f940678ca45b6d453549c521d6, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 9d3eb2f881bfd6943928890e8734db2f, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: f0b9f57d09959e841874f4bb39f1fae1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 3191385213404734153, guid: 8f40d0e85ca5ce64c9d2f3d34b15aefa, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 12800000, guid: ed2bb566506d1429cbd609c13b2d8415, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: e029c3abc8c75b44ebcf4f5438e64111, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
